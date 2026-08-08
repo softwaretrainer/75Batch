@@ -8,4 +8,5 @@ test('@SmokeTest-TC001',async ({ page }) => {
  await obj.openApplication();
  await obj.login();
  await obj.logout();
+console.log("execution completed")
 });
