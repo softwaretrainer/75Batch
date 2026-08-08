@@ -1,0 +1,8 @@
+Application opened 
+Wait Statement executed for 3 seconds
+Login to Application
+Wait Statement executed for 3 seconds
+New Employee Added
+Wait Statement executed for 3 seconds
+Logout from Application
+Wait Statement executed for 3 seconds
